@@ -52,11 +52,5 @@ This webapp uses the following open source packages:
 - [Ant Design](https://ant.design/)
 - [React-Ace (Code Editor)](https://github.com/securingsincity/react-ace)
 
-## License
 
-MIT
-
----
-
-> [stoica.dev](https://stoica.dev/) &nbsp;&middot;&nbsp;
-> GitHub [@stoicaandrei](https://github.com/stoicaandrei) &nbsp;&middot;&nbsp;
+> GitHub [@algoplutus1708](https://github.com/algoplutus1708) &nbsp;&middot;&nbsp;
